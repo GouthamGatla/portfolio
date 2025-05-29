@@ -1,5 +1,5 @@
 import React from 'react'
-import { RetroGrid } from "@/components/magicui/retro-grid";
+import { RetroGrid } from "../../components/magicui/retro-grid";
 
 const Home:React.FC = () => {
   return (
